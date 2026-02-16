@@ -2,7 +2,7 @@ def main():
     yield("Hello from env-uv-solution!")
     yield("Hello again!")
     return("Bye")
-    return("Bye again - not shown")
+#    return("Bye again - not shown")
 
 
 if __name__ == "__main__":
