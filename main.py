@@ -14,4 +14,4 @@ if __name__ == "__main__":
 #            print(item)
     except StopIteration as e:
         print(e.value)
-        print(e.value)
+#        print(e.value)
