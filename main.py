@@ -1,3 +1,4 @@
+# main
 def main():
     yield("Hello from env-uv-solution!")
     yield("Hello again!")
