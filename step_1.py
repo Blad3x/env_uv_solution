@@ -19,7 +19,7 @@ class TextApp(App):
 		
 		# Styling the Label widget
 		self.label.styles.background = "darkgreen"
-		self.label.styles.border = ("double", "red")
+		self.label.styles.border = ("double", "orange")
 		self.label.styles.padding = 1, 1
 		self.label.styles.margin = 2, 4
 		
